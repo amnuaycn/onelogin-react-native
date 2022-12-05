@@ -30,7 +30,7 @@ These providers are OpenID compliant, which means you can use [autodiscovery](ht
 - [Google](https://developers.google.com/identity/protocols/OAuth2)
   ([Example configuration](./docs/config-examples/google.md))
 - [Okta](https://developer.okta.com) ([Example configuration](./docs/config-examples/okta.md))
-- [Onelogin](https://developer.okta.com) ([Example configuration](./docs/config-examples/onelogin.md))
+- [Onelogin](https://developers.onelogin.com/openid-connect) ([Example configuration](./docs/config-examples/onelogin.md))
 - [Keycloak](http://www.keycloak.org/) ([Example configuration](./docs/config-examples/keycloak.md))
 - [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory) ([Example configuration](./docs/config-examples/azure-active-directory.md))
 - [AWS Cognito](https://eu-west-1.console.aws.amazon.com/cognito) ([Example configuration](./docs/config-examples/aws-cognito.md))
